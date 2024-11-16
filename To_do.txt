@@ -1,3 +1,5 @@
 Compile all parquet files and run 02
 Once you have new embeddings run https://github.com/recursionpharma/EFAAR_benchmarking/blob/trunk/RxRx3-core_benchmarks/rxrx3_core_benchmarks_openphenom.ipynb
+(change img_ to feature_ to make code work)
+
 Compare results to https://www.rxrx.ai/phenom RXRX3-Core
